@@ -5,7 +5,16 @@ Currently the PCB is being printed by JLCPCB and will be tested. Mini Group/Inte
 
 
 Fusion360 Render:
+PMW3360 Trackball 25mm or 34mm Option:
 ![Screenshot_2024-02-10_at_8 09 13_PM](https://github.com/protieusz/Ballz-Out/assets/118025702/fe92e8e0-9049-476c-9f06-80e3f1eec463)
+
+Azoteq 65mm Trackpad Option:
+![Screenshot 2024-02-16 at 2 21 30 PM](https://github.com/protieusz/Ballz-Out/assets/118025702/6c5ab7b0-dd8e-4585-ac55-fddb323556e9)
+![Screenshot 2024-02-16 at 2 26 19 PM](https://github.com/protieusz/Ballz-Out/assets/118025702/b44fde47-bf9f-4f38-9682-bb7266888b7d)
+![Screenshot 2024-02-16 at 2 48 38 PM](https://github.com/protieusz/Ballz-Out/assets/118025702/a7b2fbdd-ff51-4fa1-879b-42811fc7c0d5)
+
+Azoteq 43mm Trackpad Option:
+![Screenshot 2024-02-15 at 4 02 42 PM](https://github.com/protieusz/Ballz-Out/assets/118025702/0e538794-eb53-4cb7-a64f-9023dce7c48b)
 ![Screenshot_2024-02-11_at_9 34 55_AM](https://github.com/protieusz/Ballz-Out/assets/118025702/d3e99c8f-680d-4f5f-8e0f-143cf2533b4a)
 ![Screenshot_2024-02-09_at_5 31 40_PM](https://github.com/protieusz/Ballz-Out/assets/118025702/076e73bc-e690-4911-bd33-ddfa665fd289)
 Finalized Switch Plate
