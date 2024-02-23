@@ -3,6 +3,8 @@ Lesovoz style keyboard that fits a Hubris case that has a trackball or trackpad 
 
 Currently the PCB is being printed by JLCPCB and will be tested. Mini Group/Interest Check will start after.
 
+Keycaps Test Fit:
+![IMG_1301](https://github.com/protieusz/Ballz-Out/assets/118025702/bacbc90f-e1cc-4e21-8ffa-28cb20a52bc3)
 
 Fusion360 Render:
 PMW3360 Trackball 25mm or 34mm Option (Rev 1):
