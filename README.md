@@ -1,7 +1,23 @@
 # Ballz-Out
 Lesovoz style keyboard that fits a Hubris case that has a trackball or trackpad option &amp; EVQ roller encoder
 
-Currently the PCB is being printed by JLCPCB and will be tested. Mini Group/Interest Check will start after.
+Ballz Out is compatible with the following existing cases:
+
+-Campsite
+
+-Campsite+Coriander
+
+-Hubris
+
+-Pomelo
+
+-Carpool
+
+-Barca
+
+-Coriander
+
+--Currently the PCB is being printed by JLCPCB and will be tested.-- PCB tested and working after long delay from faulty RP2040 chip. Mini Group/Interest Check --will start after-- Discord channel has been approved in the 40% channel. The channel name is "ballz-out".  I will tweak the switch a little bit to adjust for the EVQ encoder and necessary spacing for the trackball and trackpad.
 
 Keycaps Test Fit:
 ![IMG_1301](https://github.com/protieusz/Ballz-Out/assets/118025702/bacbc90f-e1cc-4e21-8ffa-28cb20a52bc3)
