@@ -17,7 +17,37 @@ Ballz Out is compatible with the following existing cases:
 
 -Coriander
 
-~~Currently the PCB is being printed by JLCPCB and will be tested.~~ PCB tested and working after long delay from faulty RP2040 chip. Mini Group/Interest Check ~~will start after~~ Discord channel has been approved in the 40% channel. The channel name is "ballz-out".  I will tweak the switch a little bit to adjust for the EVQ encoder and necessary spacing for the trackball and trackpad.
+~~Currently the PCB is being printed by JLCPCB and will be tested.~~ PCB tested and working after long delay from faulty RP2040 chip. Mini Group/Interest Check ~~will start after~~ Discord channel has been approved in the 40% channel. The channel name is "ballz-out".  I will tweak the switch a little bit to adjust for the EVQ encoder and necessary spacing for the trackball and trackpad. I will have to build another prototype since my only working prototype was sold to my donor.
+
+Working Prototype:
+
+![IMG_1650](https://github.com/protieusz/Ballz-Out/assets/118025702/32779549-f539-49be-83ae-a4ec2f79cf23)
+![IMG_1651](https://github.com/protieusz/Ballz-Out/assets/118025702/cf03f009-7ebf-4c02-b558-e295ed6efd3a)
+![IMG_1672](https://github.com/protieusz/Ballz-Out/assets/118025702/df1fc1af-48cf-44ab-a335-4eb25d608196)
+![IMG_1653](https://github.com/protieusz/Ballz-Out/assets/118025702/c939ecd1-be98-439d-94f7-f6b7347615f8)
+![IMG_1655](https://github.com/protieusz/Ballz-Out/assets/118025702/b59ce32c-25e9-4a77-9a56-1f6c9d5ea539)
+![IMG_1648](https://github.com/protieusz/Ballz-Out/assets/118025702/411ffaa2-b5ae-4819-b4b3-ac4e406c8abc)
+![IMG_1652](https://github.com/protieusz/Ballz-Out/assets/118025702/050c3853-9f9c-4616-8215-1fa2860b9968)
+
+Wire Bodgle For Fault GPIO Pin For A Column:
+
+![IMG_1668](https://github.com/protieusz/Ballz-Out/assets/118025702/0a4f4543-5440-49e6-8e85-1129ad16716f)
+![Photo on 2024-03-22 at 4 39 PM](https://github.com/protieusz/Ballz-Out/assets/118025702/f9da303f-1288-4dd2-a167-6f9fc58b95d1)
+![IMG_1632](https://github.com/protieusz/Ballz-Out/assets/118025702/f33e5492-967f-4525-be48-31630afc528c)
+![IMG_1631](https://github.com/protieusz/Ballz-Out/assets/118025702/7ecd355c-7ea3-4f66-98f6-2318eba78236)
+![IMG_1633](https://github.com/protieusz/Ballz-Out/assets/118025702/39764262-fc08-4bee-bba8-89ffc3d65393)
+![IMG_1634](https://github.com/protieusz/Ballz-Out/assets/118025702/446da990-b034-48ca-b546-7007bbb61848)
+![IMG_1635](https://github.com/protieusz/Ballz-Out/assets/118025702/f74bda77-2523-40b1-9912-03759be2a50d)
+![IMG_1644](https://github.com/protieusz/Ballz-Out/assets/118025702/acc139de-b13a-4b46-bb60-832bef5334da)
+![IMG_1645](https://github.com/protieusz/Ballz-Out/assets/118025702/2358186b-e90f-4490-89a9-236421a3ccc1)
+![IMG_1640](https://github.com/protieusz/Ballz-Out/assets/118025702/04f0988f-8383-4241-a041-ac87b3f946dd)
+![IMG_1639](https://github.com/protieusz/Ballz-Out/assets/118025702/de55daf1-0eee-405a-8a79-cfdf083abb53)
+![IMG_1637](https://github.com/protieusz/Ballz-Out/assets/118025702/34dd5bb1-5035-4016-97f4-c2ff5b879dfe)
+![IMG_1638](https://github.com/protieusz/Ballz-Out/assets/118025702/34eacc8c-d2e1-4db7-95b5-59634fdc7648)
+![IMG_1647](https://github.com/protieusz/Ballz-Out/assets/118025702/6f776c4d-bcb6-4b44-bf32-20350e4fe21e)
+![IMG_1646](https://github.com/protieusz/Ballz-Out/assets/118025702/b80c30f8-9010-4360-b027-f14dab55752b)
+![IMG_1630](https://github.com/protieusz/Ballz-Out/assets/118025702/cdee2701-13ce-4655-9404-482148cf224d)
+
 
 Keycaps Test Fit:
 ![IMG_1301](https://github.com/protieusz/Ballz-Out/assets/118025702/bacbc90f-e1cc-4e21-8ffa-28cb20a52bc3)
