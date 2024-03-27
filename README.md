@@ -19,6 +19,11 @@ Ballz Out is compatible with the following existing cases:
 
 ~~Currently the PCB is being printed by JLCPCB and will be tested.~~ PCB tested and working after long delay from faulty RP2040 chip. Mini Group/Interest Check ~~will start after~~ Discord channel has been approved in the 40% channel. The channel name is "ballz-out".  I will tweak the switch a little bit to adjust for the EVQ encoder and necessary spacing for the trackball and trackpad. I will have to build another prototype since my only working prototype was sold to my donor.
 
+To Do:
+
+-Plant to add extra tabs on the switch plate for more case compatibility.
+-Parse and integrate the working QMK Ieneko42c source code into the Ballz Out. Source files are located in Temp Dump folder for this repo.
+
 Working Prototype:
 
 ![IMG_1650](https://github.com/protieusz/Ballz-Out/assets/118025702/32779549-f539-49be-83ae-a4ec2f79cf23)
