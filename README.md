@@ -22,6 +22,7 @@ Ballz Out is compatible with the following existing cases:
 To Do:
 
 -Plant to add extra tabs on the switch plate for more case compatibility.
+
 -Parse and integrate the working QMK Ieneko42c source code into the Ballz Out. Source files are located in Temp Dump folder for this repo.
 
 Working Prototype:
