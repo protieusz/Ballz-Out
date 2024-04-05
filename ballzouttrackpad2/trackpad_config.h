@@ -1,3 +1,7 @@
+/*******************************************/
+/***** Trackpad code by Daraku-Neko start *****/
+/*******************************************/
+
 typedef struct {
     bool init : 1;
     unsigned int hf_waveform_number : 7;
@@ -18,3 +22,7 @@ void init_trackpad_config(trackpad_config_t *trackpad_config);
 void set_trackpad_config(trackpad_config_t trackpad_config);
 void send_trackpad_config(const trackpad_config_t *config);
 void receive_trackpad_config(uint8_t *data);
+
+/*******************************************/
+/***** Trackpad code by Daraku-Neko start *****/
+/*******************************************/
