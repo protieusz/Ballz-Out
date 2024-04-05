@@ -1,5 +1,14 @@
 # Ballz-Out
-Lesovoz style keyboard that fits a Hubris case that has a trackball or trackpad option &amp; EVQ roller encoder. Closed Source.
+Lesovoz style keyboard that fits a Hubris case that has a trackball or trackpad option &amp; EVQ roller encoder. ~~Closed Source.~~ 
+
+Open sourced except my custom designed trackball holder which I spend a lot of time designing it which I will only upload as STL.
+I will only upload gerber files since I use EasyEDA to design so converting to pcb file will cause the file to be inaccurate.
+
+Hubris case file you can find in Rain's repo which I don't have the link with right now. No mods on the Hubris case.
+
+Custom switch plate will need to be printed in order to secure the Ballz Out PCB.
+
+No more Group Buys.
 
 Ballz Out is compatible with the following existing cases:
 
@@ -23,7 +32,10 @@ To Do:
 
 -Plant to add extra tabs on the switch plate for more case compatibility.
 
--Parse and integrate the working QMK Ieneko42c source code into the Ballz Out. Source files are located in Temp Dump folder for this repo https://github.com/protieusz/Ballz-Out/tree/main/Temp%20Dump.
+~~-Parse and integrate the working QMK Ieneko42c source code into the Ballz Out. Source files are located in Temp Dump folder for this repo https://github.com/protieusz/Ballz-Out/tree/main/Temp%20Dump.~~
+Trackpad code is borrowed from Darakuneko and the only modification I did for the QMK is to replace his matrix layout with mine. The rest are the same.
+
+As for the trackball QMK code, I borrowed from aki27's code and the same thing, matrix was modded and some VIAL statements was removed or else it will not compliled.
 
 Working Prototype:
 
