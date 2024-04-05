@@ -1,4 +1,7 @@
-//If we're going to use it, let's organize it.
+/*******************************************/
+/***** Trackpad code by Daraku-Neko start *****/
+/*******************************************/
+
 enum {
   U_DRG_TOGG = QK_KB_0,
   U_DRG_MODE,
@@ -396,3 +399,6 @@ void set_keyboard_post_init_user(void) {
   dynamic_keymap_set_tap_dance(3, &td3);
   dynamic_keymap_set_tap_dance(4, &td4);
 }
+/*******************************************/
+/***** Trackpad code by Daraku-Neko end *****/
+/*******************************************/
