@@ -1,3 +1,7 @@
+/*******************************************/
+/***** Trackpad code by Daraku-Neko start *****/
+/*******************************************/
+
 #include QMK_KEYBOARD_H
 #include "raw_hid.h"
 #include "drivers/haptic/drv2605l.h"
@@ -116,3 +120,7 @@ void receive_trackpad_config(uint8_t *data) {
   eeconfig_update_user_datablock(&trackpad_config); 
   update_trackpad_config(trackpad_config);
 }
+
+/*******************************************/
+/***** Trackpad code by Daraku-Neko start *****/
+/*******************************************/
