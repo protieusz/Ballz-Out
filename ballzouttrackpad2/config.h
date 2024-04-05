@@ -1,10 +1,14 @@
-// Copyright 2023 Daraku-Neko (@Daraku-Neko)
+// Copyright 2024 ProtieusKeebs
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
 
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET // Activates the double-tap behavior
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_TIMEOUT 200U // Timeout window in ms in which the double tap can occur.
+
+/*******************************************/
+/***** Trackpad code by Daraku-Neko start *****/
+/*******************************************/
 
 #ifdef COMBO_ENABLE
 #    define COMBO_COUNT 2
