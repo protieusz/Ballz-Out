@@ -1,4 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-or-later */
+/*******************************************/
+/***** Trackpad code by Daraku-Neko start *****/
+/*******************************************/
 
 #include "i2c_master.h"
 #include "iqs5xx.h"
@@ -192,3 +195,6 @@ void process_iqs5xx(iqs5xx_data_t* const data, report_mouse_t* const rep_mouse) 
     }
 }
 
+/*******************************************/
+/***** Trackpad code by Daraku-Neko end *****/
+/*******************************************/
