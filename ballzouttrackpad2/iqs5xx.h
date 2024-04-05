@@ -1,4 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-or-later */
+/*******************************************/
+/***** Trackpad code by Daraku-Neko start *****/
+/*******************************************/
 
 #pragma once
 
@@ -84,3 +87,7 @@ int accel_step;
 void init_iqs5xx(void);
 bool read_iqs5xx(iqs5xx_data_t* const data);
 void process_iqs5xx(iqs5xx_data_t* const data, report_mouse_t* const rep_mouse);
+
+/*******************************************/
+/***** Trackpad code by Daraku-Neko end *****/
+/*******************************************/
