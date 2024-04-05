@@ -1,4 +1,4 @@
-/* Copyright 2020 Alexander Tulloh
+/* Copyright 2024 ProtieusKeebs
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -29,6 +29,10 @@
     { K200,  K201,  K202,  K203,  K204,  KC_NO, KC_NO, K207,  K208,  K209,  K210, K211, }, \
     { K300,  K301,  K302,  K303,  K304,  K305,  K306,  K307,  K308,  K309,  K310, K311  }  \
 }
+
+/*******************************************/
+/***** Trackball_module by aki27 start *****/
+/*******************************************/
 
 typedef union {
     uint32_t raw;
@@ -82,3 +86,7 @@ bool is_clickable_mode(void);
 
 void render_logo(void);
 void oled_write_layer_state(void);
+
+/*******************************************/
+/***** Trackball_module by aki27 end *****/
+/*******************************************/
