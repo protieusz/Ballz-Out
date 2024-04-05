@@ -26,7 +26,7 @@ Ballz Out is compatible with the following existing cases:
 
 -Coriander
 
-~~Currently the PCB is being printed by JLCPCB and will be tested.~~ PCB tested and working after long delay from faulty RP2040 chip. Mini Group/Interest Check ~~will start after~~ Discord channel has been approved in the 40% channel. The channel name is "ballz-out".  I will tweak the switch a little bit to adjust for the EVQ encoder and necessary spacing for the trackball and trackpad. I will have to build another prototype since my only working prototype was sold to my donor.
+~~Currently the PCB is being printed by JLCPCB and will be tested.~~ PCB tested and working after long delay from faulty RP2040 chip. ~~Mini Group/Interest Check will start after Discord channel has been approved in the 40% channel.~~ The channel name is "ballz-out".  I will tweak the switch a little bit to adjust for the EVQ encoder and necessary spacing for the trackball and trackpad. I will have to build another prototype since my only working prototype was sold to my donor. 2nd prototype almost ready. Waiting for the bottom late but everything is working.
 
 To Do:
 
