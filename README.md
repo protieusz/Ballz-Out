@@ -92,3 +92,7 @@ Finalized Switch Plate
 ![Screenshot 2024-02-12 at 2 21 23 PM](https://github.com/protieusz/Ballz-Out/assets/118025702/65317684-42ec-42ef-abf8-a8250d710944)
 ![Screenshot 2024-02-12 at 2 21 48 PM](https://github.com/protieusz/Ballz-Out/assets/118025702/4ee158a7-02da-4bf0-bb80-0734f6e5903e)
 ![Screenshot 2024-02-12 at 2 22 00 PM](https://github.com/protieusz/Ballz-Out/assets/118025702/7df2f1e4-7759-47ee-b9fb-5aecf03cfbf5)
+
+# License
+
+MIT licensed.
