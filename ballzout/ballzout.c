@@ -1,4 +1,4 @@
-/* Copyright 2020 Alexander Tulloh
+/* Copyright 2020 ProtieusKeebs
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -23,6 +23,9 @@
 #include "pointing_device.h"
 extern const pointing_device_driver_t pointing_device_driver;
 
+/*******************************************/
+/***** Trackball code by aki27 start *****/
+/*******************************************/
 
 // Invert vertical scroll direction
 #ifndef COCOT_SCROLL_INV_DEFAULT
@@ -222,3 +225,6 @@ void cocot_set_scroll_mode(bool mode) {
     cocot_config.scrl_mode = mode;
 }
 
+/*******************************************/
+/***** Trackball_module by aki27 end *****/
+/*******************************************/
