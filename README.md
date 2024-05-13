@@ -35,7 +35,7 @@ To Do:
 ~~-Parse and integrate the working QMK Ieneko42c source code into the Ballz Out. Source files are located in Temp Dump folder for this repo https://github.com/protieusz/Ballz-Out/tree/main/Temp%20Dump.~~
 Trackpad code is borrowed from Darakuneko and the only modification I did for the QMK is to replace his matrix layout with mine. The rest are the same.
 
-As for the trackball QMK code, I borrowed from aki27's code and the same thing, matrix was modded and some VIAL statements was removed or else it will not compliled.
+As for the trackball QMK code, I borrowed from aki27's code and the same thing, matrix was modded and some VIAL statements was removed or else it will not compliled. No real support for QMK will be giving. It is best to ask the QMK discord channel for any specifics to QMK coding.
 
 Working Prototype:
 
