@@ -50,7 +50,6 @@ Working Prototype:
 ![IMG_1798](https://github.com/protieusz/Ballz-Out/assets/118025702/2648f0c2-966c-451c-89ea-9bdf3757208a)
 ![IMG_1797](https://github.com/protieusz/Ballz-Out/assets/118025702/fb5c6672-7866-4884-8068-8f194dfb0a31)
 ![IMG_1796](https://github.com/protieusz/Ballz-Out/assets/118025702/f324cb69-407f-4f80-a55c-947bc568d4da)
-![IMG_1795](https://github.com/protieusz/Ballz-Out/assets/118025702/00561eae-91bc-485c-9065-7474c65db179)
 ![IMG_1794](https://github.com/protieusz/Ballz-Out/assets/118025702/a1a0d8a8-0a6b-412b-b366-6008da15d6df)
 ![IMG_1793](https://github.com/protieusz/Ballz-Out/assets/118025702/ccf52850-eba1-4089-849d-cc08ec9a9382)
 ![IMG_1792](https://github.com/protieusz/Ballz-Out/assets/118025702/aa1fb60d-d894-4544-bd7f-70c27e73d4aa)
